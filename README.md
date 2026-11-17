@@ -12,3 +12,5 @@ O diagnóstico interativo "Em qual momento da direção você está?" separa 3 p
 
 Todas as credenciais, locais, preços, serviços, avaliações e imagens finais precisam de validação antes de um uso comercial. Lucas Moraes é fictício; Novo Hamburgo é uma localidade demonstrativa; as fotos PxHere CC0 não mostram o instrutor fictício. Não se anuncia autorização nem afiliação com Detran.
 A copy feminina para o futuro Modelo 3 está em COPY_MODELO_3_MULHERES.md.
+
+Fotografias ilustrativas: Gustavo Fring / Pexels, fotos 6817037 e 6817010.

@@ -20,6 +20,7 @@ jobs:
         run: |
           mkdir -p dist
           cp index.html styles.css config.js site.js dist/
+          cp -R assets dist/
           touch dist/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
